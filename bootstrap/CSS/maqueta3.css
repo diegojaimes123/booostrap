@@ -1,0 +1,29 @@
+#col1 {
+    background-color: aqua;
+    
+}
+
+#col2-1 {
+    background-color: rgb(20, 160, 50);
+    height: 300px;
+
+}
+
+#col2-2 {
+    background-color: rgb(43, 255, 0);
+    height: 500px;
+}
+
+#col2-3 {
+    background-color: rgb(169, 233, 183);
+    height: 200px;
+}
+
+#col2-4 {
+    background-color: rgb(4, 36, 11);
+    height: 200px;
+}
+
+#col3-1 {
+    background-color: rgb(172, 31, 31);
+}
