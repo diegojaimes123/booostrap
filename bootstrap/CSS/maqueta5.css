@@ -1,0 +1,40 @@
+.container {
+    background-color: #22da50;
+}
+#col1 {
+    background-color: rgb(235, 55, 55);
+
+}
+
+#col2-1 {
+    background-color: rgb(205, 7, 255);
+    height: 300px;
+
+}
+
+#col2-2 {
+    background-color: rgb(243, 38, 192);
+    
+}
+
+
+#col3-1 {
+    background-color: rgb(139, 19, 19);
+}
+#img1 {
+    border: 2px solid black;
+}
+
+#img2 {
+    border: 2px solid black;
+}
+
+#img3 {
+    border: 2px solid black;
+}
+#img4 {
+    border: 2px solid black;
+}
+p {
+    font-size: 20px;
+}
