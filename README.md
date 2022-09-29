@@ -1,18 +1,17 @@
 <p align="center">
- <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47v6zqmda15f1axag2gpkxteqmdrj8qpv8cfkpuwxa&rid=giphy.gif&ct=g" width="385">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hostingplus.lat%2Fblog%2Festos-son-los-lenguajes-de-programacion-mas-destacables-de-script%2F&psig=AOvVaw3a5_yhST51ThR-I90gYdNi&ust=1664550775255000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiBirGluvoCFQAAAAAdAAAAABAD
 </p>
 
 ---
 
 # buenos dias
 
-buenos dias este es mi repositorio de la ficha tecnica 2558346.
+REPOSITORIO DE BOOTSTRAP
 
 # 🧑‍🎓 ESTUDIANTE
 
 
-Buenos dias mi nombre es Alejandro Luque Rincon, estudiante del Sena en la sede de Centro de Biotecnologia Agropecuario estoy ubicaco en a ficha tecnica 2558346 con el Instructor: Jorge Leonardo Castro.
+Buenos dias mi nombre es DEIGO ALEXANDER JAIMES RONDEROS, estudiante del Sena en la sede de Centro de Biotecnologia Agropecuario estoy ubicaco en a ficha tecnica 2558346 con el Instructor: JORGE ORLANDO CASTRO NOVA.
 
 
 
@@ -22,23 +21,13 @@ en este repositorio veremos disrintas clses de codigos y variables unos de ellos
 * Html5
 * Css
 * Js
-* SASS
 * Scss
-
-## 📢 Eventos
-
-Diseñaremos y programaremos por grupos una serie de paginas para el evento de CBAGRO, un evento realizado por el Sena de esos grupos se elerira una pagina, y esta pagina quedara como la official del CBAAGRO 2022
-
 
 ## 💼 EVIDENCIAS: 
 
-* 4 verciones distintas de una serie de paginas. 
+* 7 paginas web de bootstrap
 * Maquetados Bootstrap.
 * Maquetados de paginas web donde veremos encabezado, menu aleatorio, cuerpo y un pie de pagina.
-* Modals 
-* SASS
-* Cards
-* Drap_Drog
-* Proyecto SASS_NAVBAR 
+* Archivos css respectivos para acda una de las maquetas.
 ---
 
