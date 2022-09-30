@@ -1,0 +1,10 @@
+.container {
+    background-color: rgb(255, 255, 255);
+    border: 4px black;
+}
+#new {
+    background-color: red;
+}
+div {
+    border: 2px black;
+}
