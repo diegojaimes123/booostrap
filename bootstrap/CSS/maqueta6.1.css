@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    padding: 50px;
+}
+.general{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 10px;
+}
+.card-img-topcel1{
+    height: 300px;
+    background-size: cover;
+}
+#boton{
+    background-color: rgb(228, 79, 79);
+    border: rgb(31, 0, 177);
+}
+@media (max-width:990px) {
+    .general{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+}
+.dis1{
+    background-color: white;
+}
+#este{
+    color: rgb(255, 187, 0);    
+}
+#close{
+    background-color: rgb(223, 58, 58);
+    border: rgb(31, 0, 177);
+}
+#fotos{
+    display: grid;
+    width: 100%;
+}
+#new {
+    background-color: red;
+    border-radius: 15px;
+}
