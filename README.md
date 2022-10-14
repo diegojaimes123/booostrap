@@ -16,7 +16,7 @@ Buenos dias mi nombre es DEIGO ALEXANDER JAIMES RONDEROS, estudiante del Sena en
 
 ##  EVIDENCIAS: 
 
-* 7 paginas web de bootstrap
+* 8 paginas web de bootstrap
 * Maquetados Bootstrap.
 * Maquetados de paginas web donde veremos encabezado, menu aleatorio, cuerpo y un pie de pagina.
 * Archivos css respectivos para acda una de las maquetas.
